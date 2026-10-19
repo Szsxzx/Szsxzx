@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Szsxzx — System Online" width="100%" />
+  <img src="<img width="1672" height="941" alt="ChatGPT Image 11 may 2026, 02_54_05 a m" src="https://github.com/user-attachments/assets/c292144c-c03b-43f9-9cc6-993e39b51c54" />
+" alt="Szsxzx — System Online" width="100%" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
