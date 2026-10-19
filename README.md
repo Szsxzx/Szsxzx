@@ -21,15 +21,6 @@
 <br />
 
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Szsxzx&locale=es&hide_border=true&background=0D1117&ring=FFFFFF&fire=A3A3A3&currStreakLabel=FFFFFF&sideLabels=A3A3A3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=737373&stroke=262626" alt="Racha de contribuciones" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Szsxzx&bg_color=0D1117&color=A3A3A3&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Contribuciones%20recientes" alt="Gráfica de actividad" width="100%" />
-</p>
-
 <br />
 
 <p align="center">
