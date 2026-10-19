@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.gg/nRVmRFe4S"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.youtube.com/@Szsxzxz"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://github.com/Szsxzx"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
