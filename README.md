@@ -16,11 +16,44 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,python,docker,bash&theme=dark&perline=8" alt="JavaScript, TypeScript, Node.js, React, Angular, Python, Docker, Shell" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,python,docker,bash,linux&theme=dark&perline=9" alt="JavaScript, TypeScript, Node.js, React, Angular, Python, Docker, Shell, Linux" />
 </p>
 
 <br />
 
+<p align="center">
+  <code>&gt; Infraestructura de red · Microsoft 365 · Desarrollo web</code>
+</p>
+
+<p align="center">
+  Administrador de sistemas y desarrollador full-stack. Colombia.
+</p>
+
+<p align="center">
+  Me interesa lo que hay detrás: cómo se conecta, cómo escala y por qué falla.<br />
+  Construyo soluciones a medida cuando lo genérico no alcanza.
+</p>
+
+<br />
+
+<h3 align="center"><code>// áreas</code></h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td><code>infraestructura</code></td>
+    <td>linux · redes · servidores · microsoft 365</td>
+  </tr>
+  <tr>
+    <td><code>desarrollo</code></td>
+    <td>full-stack · apis · interfaces</td>
+  </tr>
+  <tr>
+    <td><code>automatización</code></td>
+    <td>procesos · contenedores · agentes ia</td>
+  </tr>
+</table>
+</div>
 
 <br />
 
