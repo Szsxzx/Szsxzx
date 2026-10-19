@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c292144c-c03b-43f9-9cc6-993e39b51c54" alt="Szsxzx — System Online" width="100%" />
+  <img src="./assets/banner.png" alt="Szsxzx — System Online" width="100%" />
 </p>
 
 <p align="center">
