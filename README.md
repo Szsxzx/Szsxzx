@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=620&lines=%3E+David+Gonz%C3%A1lez+%C2%B7+Sysadmin+%26+Full-Stack;%3E+Infraestructura+de+red+%C2%B7+Microsoft+365;%3E+Plataformas+LMS+a+la+medida;%3E+Next.js+%C2%B7+FastAPI+%C2%B7+SQL+Server+%C2%B7+Docker;%3E+system+online_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=620&lines=%3E+Sr.Szsxz+%C2%B7+Sysadmin+%26+Full-Stack;%3E+Infraestructura+de+red+%C2%B7+Microsoft+365;%3E+Plataformas+LMS+a+la+medida;%3E+Next.js+%C2%B7+FastAPI+%C2%B7+SQL+Server+%C2%B7+Docker;%3E+system+online_" alt="Typing SVG" />
 </p>
 
 <br />
